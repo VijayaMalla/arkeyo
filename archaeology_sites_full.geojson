@@ -1,0 +1,3252 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Great Pyramid of Giza",
+        "category": "Egyptian",
+        "description": "Old Kingdom pyramid complex.",
+        "year_discovered": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1342,
+          29.9792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valley of the Kings",
+        "category": "Egyptian",
+        "description": "Royal burials of New Kingdom pharaohs.",
+        "year_discovered": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6014,
+          25.7402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abu Simbel",
+        "category": "Egyptian",
+        "description": "Rock temples of Ramesses II.",
+        "year_discovered": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6258,
+          22.336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karnak Temple",
+        "category": "Egyptian",
+        "description": "Massive temple complex dedicated to Amun.",
+        "year_discovered": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6573,
+          25.7188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "G\u00f6bekli Tepe",
+        "category": "Prehistoric",
+        "description": "Oldest known megalithic ritual structures.",
+        "year_discovered": "1994"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9226,
+          37.2231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u00c7atalh\u00f6y\u00fck",
+        "category": "Prehistoric",
+        "description": "Neolithic proto-city.",
+        "year_discovered": "1958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.825,
+          37.6667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ephesus",
+        "category": "Classical",
+        "description": "Ancient Greek and Roman port city.",
+        "year_discovered": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.341,
+          37.939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Troy (Hisarlik)",
+        "category": "Classical",
+        "description": "Bronze Age city linked to Trojan War.",
+        "year_discovered": "1870"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2389,
+          39.9578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pergamon",
+        "category": "Classical",
+        "description": "Hellenistic capital with major acropolis.",
+        "year_discovered": "1878"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.18,
+          39.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hattusa",
+        "category": "Ancient Near East",
+        "description": "Capital of the Hittite Empire.",
+        "year_discovered": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.62,
+          40.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cappadocia",
+        "category": "Ancient Near East",
+        "description": "Rock-cut settlements and churches.",
+        "year_discovered": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8283,
+          38.6431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hagia Sophia",
+        "category": "Classical",
+        "description": "Byzantine architectural wonder.",
+          "year_discovered": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9802,
+          41.0086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Persepolis",
+        "category": "Ancient Near East",
+        "description": "Ceremonial capital of the Achaemenid Empire.",
+          "year_discovered": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8916,
+          29.9344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naqsh-e Rustam",
+        "category": "Ancient Near East",
+        "description": "Rock-cut tombs of Persian kings.",
+          "year_discovered": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.8757,
+          29.984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bam Citadel",
+        "category": "Ancient Near East",
+        "description": "Large adobe citadel on Silk Road.",
+          "year_discovered": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3565,
+          29.1061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dead Cities",
+        "category": "Ancient Near East",
+        "description": "Abandoned Byzantine settlements.",
+          "year_discovered": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8667,
+          36.3833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palmyra",
+        "category": "Ancient Near East",
+        "description": "Caravan city with monumental ruins.",
+          "year_discovered": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.2669,
+          34.552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petra",
+        "category": "Nabataean",
+        "description": "Rock-cut capital city.",
+          "year_discovered": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4444,
+          30.3285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hegra (Madain Salih)",
+        "category": "Nabataean",
+        "description": "Southern Nabataean monumental tombs.",
+          "year_discovered": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9552,
+          26.7968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jerash",
+        "category": "Classical",
+        "description": "Well-preserved Roman provincial city.",
+          "year_discovered": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8993,
+          32.2808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masada",
+        "category": "Classical",
+        "description": "Herodian fortress overlooking Dead Sea.",
+          "year_discovered": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3533,
+          31.315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City of David",
+        "category": "Ancient Near East",
+        "description": "Ancient Jerusalem core.",
+          "year_discovered": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2345,
+          31.771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qumran",
+        "category": "Ancient Near East",
+        "description": "Dead Sea Scrolls settlement."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4584,
+          31.7411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Megiddo",
+        "category": "Ancient Near East",
+        "description": "Major Bronze Age and Iron Age city."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.182,
+          32.584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jericho",
+        "category": "Prehistoric",
+        "description": "Oldest continuously inhabited city."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.443,
+          31.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ur",
+        "category": "Ancient Near East",
+        "description": "Sumerian city with ziggurat."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.1034,
+          30.9646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Babylon",
+        "category": "Ancient Near East",
+        "description": "Great Mesopotamian capital."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.42,
+          32.5364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nineveh",
+        "category": "Ancient Near East",
+        "description": "Assyrian imperial city."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.152,
+          36.359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nimrud",
+        "category": "Ancient Near East",
+        "description": "Assyrian royal city."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.32,
+          36.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mohenjo-daro",
+        "category": "Indus Valley",
+        "description": "Major Harappan urban center."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.1385,
+          27.328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harappa",
+        "category": "Indus Valley",
+        "description": "Indus Valley urban site."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.875,
+          30.635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taxila",
+        "category": "Ancient Near East",
+        "description": "Gandharan Buddhist and Hellenistic site."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.838,
+          33.737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tarim Basin",
+        "category": "Ancient China",
+        "description": "Silk Road archaeological region."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0,
+          38.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terracotta Army",
+        "category": "Ancient China",
+        "description": "Burial complex of Qin Shi Huang."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.2732,
+          34.3849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Great Wall",
+        "category": "Ancient China",
+        "description": "Defensive fortifications across China."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.5704,
+          40.4319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anyang / Yin",
+        "category": "Ancient China",
+        "description": "Shang Dynasty capital."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3333,
+          36.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Longmen Grottoes",
+        "category": "Ancient China",
+        "description": "Buddhist cave carvings."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.4667,
+          34.4667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mogao Caves",
+        "category": "Ancient China",
+        "description": "Silk Road Buddhist cave complex."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.812,
+          40.044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Banpo",
+        "category": "Prehistoric China",
+        "description": "Neolithic village."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.017,
+          34.267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tikal",
+        "category": "Maya",
+        "description": "Major Maya city-state."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6237,
+          17.222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cop\u00e1n",
+        "category": "Maya",
+        "description": "Maya kingdom known for inscriptions."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.143,
+          14.8401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palenque",
+        "category": "Maya",
+        "description": "Maya city known for architecture."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0461,
+          17.4848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chich\u00e9n Itz\u00e1",
+        "category": "Maya",
+        "description": "Maya-Toltec ceremonial center."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5678,
+          20.6843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teotihuacan",
+        "category": "Mesoamerican",
+        "description": "Colossal ancient metropolis."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.843,
+          19.6925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monte Alb\u00e1n",
+        "category": "Mesoamerican",
+        "description": "Zapotec capital."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7675,
+          17.0433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uxmal",
+        "category": "Maya",
+        "description": "Puuc-style Maya city."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.77,
+          20.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Taj\u00edn",
+        "category": "Mesoamerican",
+        "description": "Classic Veracruz site."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.379,
+          20.435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tulum",
+        "category": "Maya",
+        "description": "Maya coastal city."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4296,
+          20.2141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monte Verde",
+        "category": "Prehistoric",
+        "description": "Early human settlement in the Americas."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2167,
+          -41.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Machu Picchu",
+        "category": "Inca",
+        "description": "Royal Inca estate."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.545,
+          -13.1631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sacsayhuam\u00e1n",
+        "category": "Inca",
+        "description": "Cyclopean fortress above Cusco."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.981,
+          -13.5094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caral",
+        "category": "Pre-Inca",
+        "description": "Oldest city in the Americas."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5217,
+          -10.8944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nazca Lines",
+        "category": "Pre-Inca",
+        "description": "Large geoglyphs."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.13,
+          -14.739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chan Chan",
+        "category": "Pre-Inca",
+        "description": "Chim\u00fa adobe capital."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0738,
+          -8.1081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tiwanaku",
+        "category": "Pre-Inca",
+        "description": "Highland civilization."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.6731,
+          -16.5542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cahokia",
+        "category": "North America",
+        "description": "Mississippian mound complex."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0575,
+          38.6533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mesa Verde",
+        "category": "North America",
+        "description": "Cliff dwellings."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4618,
+          37.2309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chaco Canyon",
+        "category": "North America",
+        "description": "Pueblo ceremonial center."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.9721,
+          36.0617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Poverty Point",
+        "category": "North America",
+        "description": "Archaic mound site."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4031,
+          32.6365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Serpent Mound",
+        "category": "North America",
+        "description": "Large earthen effigy."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.43,
+          39.025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montezuma Castle",
+        "category": "North America",
+        "description": "Cliff dwellings."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.839,
+          34.6117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "L'Anse aux Meadows",
+        "category": "Viking",
+        "description": "Norse settlement."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.6834,
+          51.4695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carthage",
+        "category": "Classical",
+        "description": "Phoenician and Roman city."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.323,
+          36.8529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dougga",
+        "category": "Classical",
+        "description": "Roman-Berber city."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.22,
+          36.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Jem",
+        "category": "Classical",
+        "description": "Large Roman amphitheater."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7167,
+          35.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Volubilis",
+        "category": "Classical",
+        "description": "Romanized Berber city."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.555,
+          34.073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Great Zimbabwe",
+        "category": "African",
+        "description": "Capital of medieval Zimbabwe Kingdom."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9333,
+          -20.2675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mapungubwe",
+        "category": "African",
+        "description": "Iron Age kingdom."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3,
+          -22.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mero\u00eb",
+        "category": "African",
+        "description": "Kushite pyramid necropolis."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.75,
+          16.9333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jebel Barkal",
+        "category": "African",
+        "description": "Napatan / Kushite religious capital."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.8333,
+          18.5333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lalibela",
+        "category": "African",
+        "description": "Rock-hewn churches."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.0476,
+          12.0315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Axum",
+        "category": "African",
+        "description": "Aksumite stelae and ruins."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7235,
+          14.1211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Djenn\u00e9",
+        "category": "African",
+        "description": "Mudbrick Sahelian city."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.555,
+          13.9059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Timbuktu",
+        "category": "African",
+        "description": "Historic Islamic learning center."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0026,
+          16.7666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Konark Sun Temple",
+        "category": "Ancient India",
+        "description": "Sun temple."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.0945,
+          19.8876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ajanta Caves",
+        "category": "Ancient India",
+        "description": "Buddhist cave art."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7033,
+          20.5519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ellora Caves",
+        "category": "Ancient India",
+        "description": "Rock-cut religious caves."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.178,
+          20.0268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sanchi Stupa",
+        "category": "Ancient India",
+        "description": "Early Buddhist stupa."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7395,
+          23.4793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hampi",
+        "category": "Ancient India",
+        "description": "Vijayanagara capital."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.46,
+          15.335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Angkor Wat",
+        "category": "Southeast Asia",
+        "description": "Khmer temple complex."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8667,
+          13.4125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayon / Angkor Thom",
+        "category": "Southeast Asia",
+        "description": "Temple with iconic faces."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.859,
+          13.441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bagan",
+        "category": "Southeast Asia",
+        "description": "Plain of Buddhist temples."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.8667,
+          21.1667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Borobudur",
+        "category": "Southeast Asia",
+        "description": "Buddhist mandala monument."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.2038,
+          -7.6079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prambanan",
+        "category": "Southeast Asia",
+        "description": "Hindu temple complex."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4918,
+          -7.752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Easter Island",
+        "category": "Polynesia",
+        "description": "Moai statues."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.3497,
+          -27.1127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Newgrange",
+        "category": "Prehistoric Europe",
+        "description": "Neolithic passage tomb."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4755,
+          53.6947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stonehenge",
+        "category": "Prehistoric Europe",
+        "description": "Megalithic circle."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8262,
+          51.1789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Avebury",
+        "category": "Prehistoric Europe",
+        "description": "Large stone circle."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8541,
+          51.4288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skara Brae",
+        "category": "Prehistoric Europe",
+        "description": "Neolithic village."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3433,
+          59.0489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pompeii",
+        "category": "Classical",
+        "description": "Roman city buried by Vesuvius."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4869,
+          40.7497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roman Forum",
+        "category": "Classical",
+        "description": "Civic center of ancient Rome."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4853,
+          41.8925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paestum",
+        "category": "Classical",
+        "description": "Greek temples in Italy."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0055,
+          40.4223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mycenae",
+        "category": "Bronze Age",
+        "description": "Mycenaean palace."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.75,
+          37.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Knossos",
+        "category": "Bronze Age",
+        "description": "Minoan palace."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1635,
+          35.2989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delphi",
+        "category": "Classical",
+        "description": "Oracle sanctuary."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.501,
+          38.4828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Acropolis of Athens",
+        "category": "Classical",
+        "description": "Athenian citadel."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7267,
+          37.9715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olympia",
+        "category": "Classical",
+        "description": "Birthplace of Olympic Games."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.63,
+          37.6386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vergina (Aigai)",
+        "category": "Classical",
+        "description": "Royal tombs of Macedon."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.318,
+          40.485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lascaux Cave",
+        "category": "Prehistoric Europe",
+        "description": "Paleolithic cave art."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1666,
+          45.0536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chauvet Cave",
+        "category": "Prehistoric Europe",
+        "description": "Early Paleolithic paintings."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.413,
+          44.385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altamira",
+        "category": "Prehistoric Europe",
+        "description": "Cave art."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1216,
+          43.3764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atapuerca",
+        "category": "Prehistoric Europe",
+        "description": "Early human fossils."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.51,
+          42.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ibiza Phoenician Sites",
+        "category": "Classical",
+        "description": "Carthaginian colonies."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4325,
+          38.9089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kourion",
+        "category": "Classical",
+        "description": "Greco-Roman city in Cyprus."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.884,
+          34.665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\u00d6tzi Discovery Site",
+        "category": "Prehistoric Europe",
+        "description": "Find spot of the Ice Man."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8333,
+          46.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skellig Michael",
+        "category": "Medieval",
+        "description": "Monastic settlement on rock island."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.54,
+          51.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Angkor Archaeological Park",
+        "category": "Khmer",
+        "description": "Ancient temple complex and capital city of Khmer Empire."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1666,
+          13.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nan Madol",
+        "category": "Oceanic",
+        "description": "Prehistoric archaeological site in Micronesia with stone structures."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.3,
+          6.8667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rapa Nui (Easter Island Extended)",
+        "category": "Oceanic",
+        "description": "Polynesian settlement with extensive moai fields."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.3667,
+          -27.1167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cahokia Mounds",
+        "category": "North America",
+        "description": "Largest prehistoric earthwork north of Mexico with Mississippian culture."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0616,
+          38.6559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chaco Culture National Historical Park",
+        "category": "North America",
+        "description": "Ancestral Puebloan ceremonial and administrative center."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.9159,
+          36.0381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandelier National Monument",
+        "category": "North America",
+        "description": "Ancient Pueblo dwellings and cliff structures."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.2894,
+          35.7725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cahokia Woodhenge",
+        "category": "North America",
+        "description": "Astronomical observation post of ancient Mississippian civilization."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0626,
+          38.6518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hopewell Culture National Historical Park",
+        "category": "North America",
+        "description": "Geometric earthen mounds of Hopewell culture."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9936,
+          39.3078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castlerigg Stone Circle",
+        "category": "Prehistoric",
+        "description": "Neolithic stone circle in Lake District, England."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1925,
+          54.5038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carnac Stones",
+        "category": "Prehistoric",
+        "description": "Extensive Neolithic stone row alignments in Brittany."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3667,
+          47.5833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Callanish Stones",
+        "category": "Prehistoric",
+        "description": "Bronze Age stone circle in Isle of Lewis, Scotland."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7436,
+          58.1975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ring of Brodgar",
+        "category": "Prehistoric",
+        "description": "Neolithic henge monument in Orkney, Scotland."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2254,
+          59.0256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hallstatt",
+        "category": "Iron Age",
+        "description": "Iron Age salt mining settlement in Alpine region."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6485,
+          47.5631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heuneburg",
+        "category": "Iron Age",
+        "description": "Iron Age princely settlement in Germany."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2953,
+          48.2689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vinca",
+        "category": "Neolithic",
+        "description": "Neolithic tell settlement in Serbia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0333,
+          44.7333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Minoan Akrotiri",
+        "category": "Minoan",
+        "description": "Bronze Age Minoan city buried by volcanic eruption."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4311,
+          36.3644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Knossos Palace",
+        "category": "Minoan",
+        "description": "Largest Minoan palace complex on Crete."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1823,
+          35.2975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nara",
+        "category": "Japanese",
+        "description": "Ancient capital with Buddhist temples and ancient palaces."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.8048,
+          34.6851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kyoto",
+        "category": "Japanese",
+        "description": "Imperial capital with numerous temples and traditional structures."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7681,
+          35.0116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Angkor Borei",
+        "category": "Cambodian",
+        "description": "Ancient pre-Angkorian settlement in Mekong Delta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7333,
+          10.5833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sukhothai",
+        "category": "Thai",
+        "description": "Historic capital of Sukhothai Kingdom with temple ruins."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.8107,
+          17.4139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ayutthaya",
+        "category": "Thai",
+        "description": "Former capital of Siam with temple and palace ruins."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5241,
+          14.3569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sambor Prei Kuk",
+        "category": "Pre-Angkorian",
+        "description": "Pre-Angkorian temple complex of Chenla Kingdom."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.1,
+          12.6833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luang Prabang",
+        "category": "Lao",
+        "description": "Ancient royal capital of Laos with Buddhist temples."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.1348,
+          19.8845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fez Medina",
+        "category": "Islamic",
+        "description": "Medieval Islamic city with ancient medina and university."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0064,
+          34.0636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marrakech Medina",
+        "category": "Islamic",
+        "description": "Ancient medina with Almoravid and later Islamic monuments."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0084,
+          31.6295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tlemcen",
+        "category": "Islamic",
+        "description": "Medieval Islamic city with mosques and palaces."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6408,
+          35.2934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oualata",
+        "category": "Sahelian",
+        "description": "Ancient Saharan trade post with traditional architecture."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9333,
+          16.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gedi",
+        "category": "Swahili",
+        "description": "Medieval Swahili city ruins on East African coast."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.1667,
+          -3.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lamu",
+        "category": "Swahili",
+        "description": "Ancient Swahili maritime city with preserved architecture."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.9,
+          -2.2667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kilwa Kisiwani",
+        "category": "Swahili",
+        "description": "Medieval Swahili sultanate with palace and mosque ruins."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5,
+          -8.9667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zanzibar Stone Town",
+        "category": "Swahili",
+        "description": "Historic Swahili and Arab trading port with preserved architecture."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1864,
+          -6.1592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meroe Pyramids",
+        "category": "Kushite",
+        "description": "Kushite royal pyramids and necropolis in Sudan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7333,
+          16.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aksum Obelisks",
+        "category": "Aksumite",
+        "description": "Ancient Aksumite empire stelae and monuments."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7167,
+          14.1333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Addis Ababa Ancient Market",
+        "category": "Ethiopian",
+        "description": "Historic trading center of Ethiopian highlands."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7469,
+          9.0341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Murlo Etruscan Settlement",
+        "category": "Etruscan",
+        "description": "Bronze Age Etruscan palace complex in Tuscany."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7333,
+          43.1667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tarquinia Etruscan Necropolis",
+        "category": "Etruscan",
+        "description": "Etruscan tombs with painted frescoes."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7567,
+          42.2258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vulci",
+        "category": "Etruscan",
+        "description": "Major Etruscan city and necropolis."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6667,
+          42.4333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hallein Salt Mine",
+        "category": "Prehistoric",
+        "description": "Bronze Age salt mining site in Austria."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2083,
+          47.6833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heraclea Lyncestis",
+        "category": "Classical",
+        "description": "Hellenistic city in North Macedonia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5333,
+          40.9667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aphrodisias",
+        "category": "Classical",
+        "description": "Greco-Roman city with temples and sculptures in Turkey."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7267,
+          37.7106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aizanoi",
+        "category": "Classical",
+        "description": "Ancient Greco-Roman city with well-preserved temple."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0667,
+          38.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Didyma Oracle",
+        "category": "Classical",
+        "description": "Ancient sanctuary with temple to Apollo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2675,
+          37.3611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Priene",
+        "category": "Classical",
+        "description": "Hellenistic city ruins in Turkey."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3,
+          37.6333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Çatalhöyük East Settlement",
+        "category": "Neolithic",
+        "description": "Extended Neolithic settlement layers."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8417,
+          37.6667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nemea",
+        "category": "Classical",
+        "description": "Ancient Greek sanctuary and athletic games site."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3667,
+          37.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aigai (Palatitsia)",
+        "category": "Classical",
+        "description": "Royal Macedonian capital with palace."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5667,
+          40.3167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samothrace",
+        "category": "Classical",
+        "description": "Sanctuary of Great Gods in Aegean Sea."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5,
+          40.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lindos Acropolis",
+        "category": "Classical",
+        "description": "Greek acropolis on Rhodes with temples."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0667,
+          36.0833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uxmal East Annex",
+        "category": "Maya",
+        "description": "Extended Maya structures adjacent to Uxmal complex."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7667,
+          20.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calakmul",
+        "category": "Maya",
+        "description": "Major Maya city-state in Petén region."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7833,
+          17.2667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caracol",
+        "category": "Maya",
+        "description": "Maya city on plateau in Belize."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8,
+          16.7667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xunantunich",
+        "category": "Maya",
+        "description": "Late Classic Maya city in Belize."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1667,
+          17.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaminaljuyu",
+        "category": "Mesoamerican",
+        "description": "Pre-Classic Maya settlement in Guatemala highlands."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5667,
+          14.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mixco Viejo",
+        "category": "Mesoamerican",
+        "description": "Late Post-Classic Maya-Nahua site on mountain ridge."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8333,
+          14.7667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bonampak",
+        "category": "Maya",
+        "description": "Maya city known for painted murals."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0667,
+          16.7333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yaxchilán",
+        "category": "Maya",
+        "description": "Classic Maya city on Usumacinta River."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9167,
+          16.8833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chichén Itzá Extended",
+        "category": "Maya",
+        "description": "Complex extending beyond main ceremonial center."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3333,
+          20.6667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coba",
+        "category": "Maya",
+        "description": "Classic Maya city with interconnected pyramids."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.75,
+          20.4833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dzibilchaltun",
+        "category": "Maya",
+        "description": "Long-occupied Maya settlement in Yucatan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6333,
+          20.8333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cahaltún",
+        "category": "Maya",
+        "description": "Maya settlement in Campeche region."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5667,
+          18.5667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nalanda University",
+        "category": "Buddhist",
+        "description": "Ancient Buddhist monastery and seat of learning in Bihar."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.7833,
+          25.1333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mathura Museum Sites",
+        "category": "Indian",
+        "description": "Kushan period sculpture and religious centers."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7,
+          27.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Varanasi Temples",
+        "category": "Hindu",
+        "description": "Ancient Hindu pilgrimage city with ghats and temples."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.9667,
+          25.3333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sarnath",
+        "category": "Buddhist",
+        "description": "Site where Buddha preached first sermon with stupa and monastery ruins."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.0333,
+          25.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lumbini",
+        "category": "Buddhist",
+        "description": "Birthplace of Buddha with temple and archaeological park."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.7333,
+          27.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bodh Gaya",
+        "category": "Buddhist",
+        "description": "Site of Buddha's enlightenment with ancient Mahabodhi Temple."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9833,
+          24.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kushinagar",
+        "category": "Buddhist",
+        "description": "Place of Buddha's Parinirvana with stupas and temples."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9,
+          26.7333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bharhut Stupa",
+        "category": "Buddhist",
+        "description": "Ancient Buddhist monument with carved railings."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1667,
+          23.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amravati Stupa",
+        "category": "Buddhist",
+        "description": "Ancient Buddhist stupa site in Andhra Pradesh."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6,
+          16.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amaravati",
+        "category": "Indian",
+        "description": "Historic city with ancient temples and sculptures."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1667,
+          16.6167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagapattinam",
+        "category": "Chola",
+        "description": "Ancient port city with Chola temple architecture."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8,
+          11.0167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanjore Big Temple",
+        "category": "Chola",
+        "description": "Brihadeshwara Temple, masterpiece of Chola architecture."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1333,
+          10.7833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aihole",
+        "category": "Chalukyan",
+        "description": "Ancient temple complex showcasing Chalukyan architecture."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8833,
+          15.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Badami Caves",
+        "category": "Chalukyan",
+        "description": "Cave temples carved from sandstone during Chalukyan period."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.6833,
+          15.4167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pattadakal",
+        "category": "Chalukyan",
+        "description": "Sacred center with Hindu temples showcasing Chalukyan style."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7833,
+          15.5167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khajuraho Temples",
+        "category": "Chandela",
+        "description": "Medieval Hindu and Jain temples with intricate stone carvings."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9167,
+          24.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Somnath Temple",
+        "category": "Hindu",
+        "description": "Ancient Hindu temple rebuilt multiple times, sacred pilgrimage site."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.5167,
+          20.8833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dwarka Temple",
+        "category": "Hindu",
+        "description": "Ancient temple dedicated to Krishna with rich architectural heritage."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.5167,
+          22.2333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madhurai Meenakshi Temple",
+        "category": "Hindu",
+        "description": "Ancient Dravidian temple dedicated to Meenakshi and Shiva."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1167,
+          9.925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rameswaram Temple",
+        "category": "Hindu",
+        "description": "Ancient Dravidian temple and pilgrimage center."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3167,
+          9.2833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Srirangam Temple",
+        "category": "Hindu",
+        "description": "Largest Hindu temple complex dedicated to Ranganatha."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7667,
+          11.0167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Varanasi Kashi Vishwanath",
+        "category": "Hindu",
+        "description": "Ancient Hindu temple dedicated to Lord Shiva on Ganges."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.9667,
+          25.3265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kedarnath Temple",
+        "category": "Hindu",
+        "description": "Ancient temple in Himalayas dedicated to Shiva."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5667,
+          30.2333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Badrinath Temple",
+        "category": "Hindu",
+        "description": "Ancient pilgrimage temple dedicated to Vishnu in Himalayas."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4833,
+          30.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jagannath Temple",
+        "category": "Hindu",
+        "description": "Ancient Odia temple with architectural excellence."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8245,
+          19.8139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lingaraja Temple",
+        "category": "Hindu",
+        "description": "Ancient Hindu temple in Bhubaneswar showcasing Odia architecture."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8361,
+          20.2333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Modhera Sun Temple",
+        "category": "Hindu",
+        "description": "Ancient Surya temple with stunning architectural design."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.2667,
+          23.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rani ki Vav",
+        "category": "Indian",
+        "description": "Ancient stepwell with intricate carvings in Gujarat."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.1833,
+          23.0167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chand Baori",
+        "category": "Indian",
+        "description": "Ancient stepwell with 3,500 steps in Rajasthan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0083,
+          26.8667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sanur Buddhist Temple",
+        "category": "Buddhist",
+        "description": "Ancient Buddhist monastery site in Himachal Pradesh."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2,
+          32.1833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dhamek Stupa",
+        "category": "Buddhist",
+        "description": "Ancient Buddhist stupa at Sarnath with carved patterns."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.0333,
+          25.4033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shravasti",
+        "category": "Buddhist",
+        "description": "Ancient Buddhist city where Buddha spent time teaching."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.1667,
+          27.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kapilavastu",
+        "category": "Buddhist",
+        "description": "Ancient city related to Buddha's early life."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.8833,
+          27.5833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dharavi",
+        "category": "Indian",
+        "description": "Archaeological deposits of ancient settlement."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8667,
+          19.0167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ujjain Temples",
+        "category": "Hindu",
+        "description": "Ancient Hindu pilgrimage city with historic temples."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7667,
+          23.1833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malwa Plateau Sites",
+        "category": "Indian",
+        "description": "Multiple Neolithic and Iron Age archaeological sites."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5,
+          23.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vidisha",
+        "category": "Indian",
+        "description": "Ancient city with Mauryan and Shunga period monuments."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8167,
+          23.1833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gaya Archaeological Sites",
+        "category": "Indian",
+        "description": "Multiple temples and pilgrimage centers around Gaya."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9833,
+          24.7833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Indore Royal Palace",
+        "category": "Indian",
+        "description": "Historic palace complex with Rajput and Mughal architecture."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8667,
+          22.7167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mandu Palace Complex",
+        "category": "Islamic",
+        "description": "Medieval palace and fort complex in central India."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.4167,
+          22.3333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhopal Taj Mahal Monument",
+        "category": "Islamic",
+        "description": "Islamic architecture and historic city monuments."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4167,
+          23.1833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Agra Fort",
+        "category": "Islamic",
+        "description": "Mughal fort and UNESCO World Heritage site."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0083,
+          27.1833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tajmahal",
+        "category": "Islamic",
+        "description": "Iconic Mughal mausoleum built by Emperor Shah Jahan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0419,
+          27.1751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fatehpur Sikri",
+        "category": "Islamic",
+        "description": "Abandoned Mughal capital with palatial structures."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9167,
+          27.0833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delhi Red Fort",
+        "category": "Islamic",
+        "description": "Mughal fortress and former imperial residence."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2408,
+          28.6562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jama Masjid Delhi",
+        "category": "Islamic",
+        "description": "Historic mosque in Old Delhi built by Mughal emperor."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2298,
+          28.6508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Udaipur City Palace",
+        "category": "Indian",
+        "description": "Rajput palace complex blending Hindu and Mughal architecture."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7,
+          24.5833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jodhpur Mehrangarh Fort",
+        "category": "Indian",
+        "description": "Massive Rajput fort with intricate carvings."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1856,
+          26.2389
+        ]
+      }
+    }
+  ]
+}

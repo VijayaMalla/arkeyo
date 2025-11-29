@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dinomites - Innovation Project</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Google Fonts for fluid typography -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&family=Geist:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        /* Set the size of the map container */
+        #map {
+            height: 100%;
+            width: 100%;
+        }
+        html {
+            scroll-behavior: smooth;
+            font-family: 'Poppins', 'Geist', system-ui, -apple-system, sans-serif;
+        }
+        body {
+            font-family: 'Poppins', 'Geist', system-ui, -apple-system, sans-serif;
+        }
+        
+        .gm-style .gm-style-iw-c 
+        {
+            padding:0px;
+        }
+    </style>
+</head>
+<body class="bg-slate-50">
+    <!-- Section 1: Hero Landing Page -->
+    <section class="h-screen w-full bg-gradient-to-br from-emerald-700 via-emerald-800 to-emerald-900 flex items-center justify-center">
+        <div class="text-center text-white px-4">
+            <h1 class="text-6xl md:text-7xl font-bold mb-6 animate-fade-in" style="letter-spacing: -0.02em;">Dinomites</h1>
+            <p class="text-2xl md:text-4xl font-light mb-8 text-emerald-100" style="letter-spacing: 0.01em;">Innovation Project</p>
+            <p class="text-lg md:text-xl text-emerald-100 max-w-2xl mx-auto font-light">Team 71950 - FLL Challenge</p>
+            <div class="mt-12">
+                <svg class="animate-bounce w-8 h-8 mx-auto text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"></path>
+                </svg>
+            </div>
+        </div>
+    </section>
+
+    <!-- Section 2: Google Map -->
+    <section class="h-screen w-full flex flex-col relative">
+        <div class="bg-gradient-to-r from-emerald-700 to-emerald-900 text-white p-6 shadow-lg flex flex-col gap-4">
+                <div class="bg-emerald-50 rounded-xl shadow-sm px-6 py-5 flex flex-col gap-3 items-start">
+                    <h2 class="text-2xl font-bold text-emerald-900 mb-1">Explore the World !</h2>
+                    <p class="text-gray-700 text-base mb-2">Explore archaeological sites from around the world. Use the search bar below to find and zoom to a specific site on the map.</p>
+                    <div class="w-full relative">
+                        <input id="search-bar" type="text" placeholder="Search archaeological sites..." class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-emerald-400 text-base bg-white shadow-sm text-black" />
+                        <ul id="search-results" class="absolute z-10 bg-white border border-gray-200 rounded-lg shadow-lg mt-1 w-full hidden"></ul>
+                    </div>
+                </div>
+        </div>
+        <div id="map" class="flex-1"></div>
+        <button id="recenter-btn" class="absolute right-6 bottom-8 z-10 bg-emerald-700 hover:bg-emerald-900 text-white font-semibold py-2 px-4 rounded-lg shadow-lg transition-all duration-200" style="box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+            Recenter Map
+        </button>
+    </section>
+
+    <!-- Section 3: Team Information -->
+    <section class="min-h-screen w-full bg-slate-50 py-16 px-4">
+        <div class="max-w-6xl mx-auto">
+            <h2 class="text-4xl font-bold text-center mb-4 text-slate-900" style="letter-spacing: -0.01em;">Our Team</h2>
+            <p class="text-center text-slate-600 mb-12 text-lg font-light">Meet the talented members of Team Dinomites</p>
+            
+            <!-- Team Grid -->
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-6">
+                <!-- Team Member 1 -->
+                <div class="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow duration-300">
+                    <div class="bg-gradient-to-br from-emerald-400 to-emerald-600 h-32 w-full"></div>
+                    <img src="" alt="Team Member" class="w-full h-40 object-cover -mt-16 relative z-10 mx-auto rounded-full border-4 border-white">
+                    <div class="p-4 text-center">
+                        <h3 class="text-lg font-bold text-slate-900 mb-1">Riya Malla</h3>
+                        <p class="text-sm text-slate-600 mb-2 font-light">Team Lead</p>
+                        <p class="text-xs text-slate-500">Replace this name and photo</p>
+                    </div>
+                </div>
+
+                <!-- Team Member 2 -->
+                <div class="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow duration-300">
+                    <div class="bg-gradient-to-br from-teal-400 to-teal-600 h-32 w-full"></div>
+                    <img src="" alt="Team Member" class="w-full h-40 object-cover -mt-16 relative z-10 mx-auto rounded-full border-4 border-white">
+                    <div class="p-4 text-center">
+                        <h3 class="text-lg font-bold text-slate-900 mb-1">Aadhya Gavvaji</h3>
+                        <p class="text-sm text-slate-600 mb-2 font-light">Designer</p>
+                        <p class="text-xs text-slate-500">Replace this name and photo</p>
+                    </div>
+                </div>
+
+                <!-- Team Member 3 -->
+                <div class="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow duration-300">
+                    <div class="bg-gradient-to-br from-green-400 to-green-600 h-32 w-full"></div>
+                    <img src="" alt="Team Member" class="w-full h-40 object-cover -mt-16 relative z-10 mx-auto rounded-full border-4 border-white">
+                    <div class="p-4 text-center">
+                        <h3 class="text-lg font-bold text-slate-900 mb-1">Trishika Jagdeesh</h3>
+                        <p class="text-sm text-slate-600 mb-2 font-light">Engineer</p>
+                        <p class="text-xs text-slate-500">Replace this name and photo</p>
+                    </div>
+                </div>
+
+                <!-- Team Member 4 -->
+                <div class="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow duration-300">
+                    <div class="bg-gradient-to-br from-lime-400 to-lime-600 h-32 w-full"></div>
+                    <img src="" alt="Team Member" class="w-full h-40 object-cover -mt-16 relative z-10 mx-auto rounded-full border-4 border-white">
+                    <div class="p-4 text-center">
+                        <h3 class="text-lg font-bold text-slate-900 mb-1">Tulsi Gami</h3>
+                        <p class="text-sm text-slate-600 mb-2 font-light">Researcher</p>
+                        <p class="text-xs text-slate-500">Replace this name and photo</p>
+                    </div>
+                </div>
+
+                <!-- Team Member 5 -->
+                <div class="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow duration-300">
+                    <div class="bg-gradient-to-br from-emerald-500 to-emerald-700 h-32 w-full"></div>
+                    <img src="" alt="Team Member" class="w-full h-40 object-cover -mt-16 relative z-10 mx-auto rounded-full border-4 border-white">
+                    <div class="p-4 text-center">
+                        <h3 class="text-lg font-bold text-slate-900 mb-1">Raadhika Chikara</h3>
+                        <p class="text-sm text-slate-600 mb-2 font-light">Strategist</p>
+                        <p class="text-xs text-slate-500">Replace this name and photo</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Load the map script -->
+    <script src="map.js"></script>
+    <script async
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCw9dxtMIpyHpTr2QKPtLwRG2FtIDjAimA&callback=initMap">
+    </script>
+</body>
+</html>
