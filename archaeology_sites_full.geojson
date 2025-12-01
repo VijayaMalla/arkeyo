@@ -3247,6 +3247,23 @@
           26.2389
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chichen Itza Pyramid, Mexico",
+        "category": "Maya",
+        "description": "El Castillo, a step pyramid built by the Maya civilization, known for its astronomical significance and equinox serpent shadow.",
+        "year_discovered": "",
+        "arkeyo_link":"storypage.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5678,
+          20.6843
+        ]
+      }
     }
   ]
 }

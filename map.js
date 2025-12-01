@@ -38,10 +38,10 @@ function initMap() {
                 return 'Other';
             }
             const continentColors = {
-                'Americas': '#e6f2ff',
-                'Africa': '#e6ffe6',
-                'Europe': '#f3e6ff',
-                'Asia': '#fffbe6',
+                'Americas': '#67a86aff',
+                'Africa': '#759194',
+                'Europe': '#f0ded3',
+                'Asia': '#DE9C73',
                 'Oceania': '#e6ffff',
                 'Antarctica': '#f0f8ff',
                 'Other': '#f5f5f5'
@@ -70,17 +70,22 @@ function initMap() {
                     icon: markerIcon
                 });
                 // InfoWindow
+                let arkeyoLinkHtml = '';
+                if (properties.arkeyo_link) {
+                  arkeyoLinkHtml = `<div style=\"margin-top:8px;\"><a href=\"${properties.arkeyo_link}\" target=\"_blank\" rel=\"noopener\" style=\"color:#047857;font-weight:600;text-decoration:underline;\">Learn more on Arkeyo</a></div>`;
+                }
                 const infoWindow = new google.maps.InfoWindow({
                     content: `
                         <div style="padding: 10px 12px; border-radius: 10px; background: ${bgColor}; box-shadow: 0 2px 12px rgba(0,0,0,0.12); font-family: 'Poppins', 'Geist', Arial, sans-serif; min-width: 220px; max-width: 320px; position: relative;">
                             <a href="https://www.google.com/search?q=${encodeURIComponent(properties.name)}" target="_blank" rel="noopener" style="text-decoration:none;">
                                 <h2 style="margin: 0 0 8px 0; font-size: 1.35em; font-weight: 700; color: #1a3c6e; line-height: 1.2;">${properties.name}</h2>
                             </a>
-                            <div style="margin-bottom: 6px; font-size: 0.98em; color: #444;">
+                            <div style="margin-bottom: 6px; font-size: 0.98em; color: white;">
                                 <span style="font-weight: 600;">Category:</span> ${properties.category}
                             </div>
-                            <div style="font-size: 0.98em; color: #555;">${properties.description}</div>
-                            <div style="margin-top: 8px; font-size: 0.9em; color: #888; font-style: italic;">${continent}</div>
+                            <div style="font-size: 0.98em; color: white;">${properties.description}</div>
+                            <div style="margin-top: 8px; font-size: 0.9em; color: black; font-style: italic;">${continent}</div>
+                            ${arkeyoLinkHtml}
                         </div>
                     `
                 });
